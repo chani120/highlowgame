@@ -1,0 +1,19 @@
+#input{
+    width: 50%;
+}
+
+#text{
+    padding-top:100px;
+}
+body {
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+h1,h3{
+    color: Purple !important;
+}
+
+btn{
+    color:Purple !important;
+}
